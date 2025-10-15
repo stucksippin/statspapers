@@ -1,15 +1,17 @@
-
 import './App.css'
-import LiveInternetReport from './components/LiveInternetReport'
+
+import LiveReport from './components/LiveReport'
 
 function App() {
 
 
   return (
     <>
-      <LiveInternetReport />
+      <LiveReport />
     </>
   )
 }
 
 export default App
+
+
